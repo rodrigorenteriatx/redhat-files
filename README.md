@@ -55,6 +55,4 @@ NFS/KS SETUP
 
 ![image.png](TFTP%20PXE%20NFS%20SETUP%201db6269e7c308004ae97c753132c18bd/image%204.png)
 
-[https://github.com/rodrigorenteriatx/redhat-files/blob/main/ks.cfg](https://github.com/rodrigorenteriatx/redhat-files/blob/main/ks.cfg)
-
 [https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/system_design_guide/kickstart-commands-and-options-reference_system-design-guide](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/system_design_guide/kickstart-commands-and-options-reference_system-design-guide)
